@@ -8,7 +8,7 @@
 - 🌱 Currently learning new technologies and improving my skills in backend development including Java, CI/CD, basic web hosting, & networking.
 - 🎓 Graduated from Florida A&M University with a degree in Information Techonolgy.
 - 💼 Working as a IT Infrastructure & Operations Associate Analyst at PepsiCo.
-- 💬 Ask me about [topics you are knowledgeable in].
+- 💬 Ask me about anime, java, web site building.
 - 📫 How to reach me: recopy-slinky-stew@duck.com or connect with me on [LinkedIn](your-linkedin-url).
 
 ## Tech Stack
