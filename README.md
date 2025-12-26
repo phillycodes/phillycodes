@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌟 Passionate developer with a love for coding and problem-solving.
-- 🌱 Currently learning new technologies and improving my skills in [your current focus areas].
+- 🌱 Currently learning new technologies and improving my skills in backend development including Java, CI/CD, basic web hosting, & networking.
 - 🎓 Graduated from Florida A&M University with a degree in Information Techonolgy.
 - 💼 Working as a IT Infrastructure & Operations Associate Analyst at PepsiCo.
 - 💬 Ask me about [topics you are knowledgeable in].
